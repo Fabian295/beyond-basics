@@ -42,11 +42,11 @@ nav ul li a {
   height: 100%;
 }
 
-/* .page {
+.page {
   display: none;
-  min-height: 100vh;
+  min-height: 100%;
   position: absolute;
-} */
+}
 
 .active {
   display: block;
